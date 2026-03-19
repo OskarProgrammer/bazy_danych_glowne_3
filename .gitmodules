@@ -19,3 +19,6 @@
 [submodule "source/rozdzial_2/rozdzial_28"]
 	path = source/rozdzial_2/rozdzial_28
 	url = https://github.com/Koko9077/Kopie-zapasowe-i-odzyskiwanie-danych.git
+[submodule "source/rozdzial_2/rozdzial_26"]
+	path = source/rozdzial_2/rozdzial_26
+	url = https://github.com/domino0472/Partycjonowani-Danych.git
